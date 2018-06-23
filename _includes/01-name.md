@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Jane's Blog
+I have tried several several ways to build up my own blog, including commercial services, and buiding it on github by forking repo directly from someone else or using framework like Hexo. Questions like what is Git,what is GitHub and how to use git commands in in the files automatically compiled by Hexo. This time, I worked solely on GitHub, which means I can write code directly on-line. Hexo is a framework, like other softwares and apps, except it's driven by commands instead of the more user-friendly interactive interfaces (?) which most are familiar with. 
